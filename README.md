@@ -1,1 +1,3 @@
 # customer-segmentation
+
+This study is designed to perform customer segmentation and make sense of it by grouping customers with similar customer behaviors in this process. Inspired by our own career journeys and aware of the natural similarities between people, in this project we aimed to explore how effective segmentation techniques can be applied through the analysis of customer data sets. We have comprehensively covered each stage of the segmentation process – data preprocessing, feature engineering, selection of classification algorithms, and model optimization. We aim to contribute to companies deepening their customer understanding.![image](https://github.com/esramelikecakir/customer-segmentation/assets/77747702/ccec0d23-ce9e-4436-80db-027168a3ea60)
